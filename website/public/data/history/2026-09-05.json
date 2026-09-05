@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
-  "article_count": 1321,
-  "last_updated": "2026-09-05T18:46:01.022324",
+  "article_count": 1322,
+  "last_updated": "2026-09-05T20:54:33.380074",
   "articles": [
     {
       "district": "Kushinagar",
@@ -14533,6 +14533,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/05/e6725dd3-f282-4564-84b2-9e2b19b343e8_1788621055010.jpg",
       "scrape_date": "2026-09-05",
       "scrape_time": "18:46"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आज 44 केंद्रों पर होगी प्राविधिक शिक्षा अध्यापन परीक्षा:गोरखपुर में केंद्रों पर CCTV से निगरानी, एडमिट कार्ड के साथ आईडी प्रूफ जरुरी",
+      "summary": "प्राविधिक शिक्षा अध्यापन परीक्षा-2026 को लेकर गोरखपुर जिला प्रशासन ने सभी तैयारियां पूरी कर ली हैं। रविवार, 6 सितंबर को जिले के 44 परीक्षा केंद्रों पर 19,496 अभ्यर्थी परीक्षा देंगे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-pra-vidhik-shiksha-adhyapan-pariksha-cctv-monitoring-update-138944455.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/06/gifmagicsite-2026-04-26t225520612_1788638192.gif",
+      "scrape_date": "2026-09-05",
+      "scrape_time": "20:54"
     }
   ]
 }
